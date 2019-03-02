@@ -48,3 +48,9 @@ Temporary Items
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
+
+# Pygame cache files
+*.pyc
+
+# VSCode settings
+settings.json
